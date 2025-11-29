@@ -1,0 +1,7 @@
+*.pdf
+.RHistory
+*.zip
+profrcodes/
+profpythoncodes/ 
+data/
+__pycache__/
